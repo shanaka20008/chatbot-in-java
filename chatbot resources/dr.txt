@@ -1,0 +1,29 @@
+	[1]Dr. Nimal Perera
+
+	Specialty: Cardiology
+	Consultation Days: Monday, Wednesday, Friday
+	Consultation Times: 4:00 PM
+
+	[2]Dr. Shanika Fernando
+
+	Specialty: Dermatology
+	Consultation Days: Tuesday, Thursday, Saturday
+	Consultation Times: 5:00 PM 
+
+	[3]Dr. Ajith Weerasinghe
+
+	Specialty: Pediatrics
+	Consultation Days: Monday, Tuesday, Thursday
+	Consultation Times: 6:00 PM 
+
+	[4]Dr. Malini de Silva
+
+	Specialty: Neurology
+	Consultation Days: Wednesday, Friday
+	Consultation Times: 2:00 PM 
+
+	[5]Dr. Ruwan Jayawardena
+
+	Specialty: Orthopedics
+	Consultation Days: Tuesday, Thursday, Saturday
+	Consultation Times: 7:00 PM 

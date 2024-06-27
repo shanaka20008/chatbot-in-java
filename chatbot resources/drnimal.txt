@@ -1,0 +1,8 @@
+Dr. Nimal Perera's details
+
+	Specialty: Cardiology
+	Consultation Days: Monday, Wednesday, Friday
+	Consultation Times: 4:00 PM
+	Room Number : 8
+
+Do you wanna channel him ? [Yes/No]

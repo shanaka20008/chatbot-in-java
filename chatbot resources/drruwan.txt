@@ -1,0 +1,8 @@
+Dr. Ruwan Jayawardena's details
+
+	Specialty: Orthopedics
+	Consultation Days: Tuesday, Thursday, Saturday
+	Consultation Times: 7:00 PM 
+	Room Number: 2
+
+Do you wanna channel him ? [Yes/No]

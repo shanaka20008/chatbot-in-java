@@ -1,0 +1,8 @@
+Dr. Shanika Fernando's details
+
+	Specialty: Dermatology
+	Consultation Days: Tuesday, Thursday, Saturday
+	Consultation Times: 5:00 PM 
+	Room Number : 6
+
+Do you wanna channel her ? [Yes/No]

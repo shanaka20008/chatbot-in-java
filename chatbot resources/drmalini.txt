@@ -1,0 +1,8 @@
+Dr. Malini de Silva's details
+
+	Specialty: Neurology
+	Consultation Days: Wednesday, Friday
+	Consultation Times: 2:00 PM 
+	Room Number :3
+
+Do you wanna channel her ? [Yes/No]

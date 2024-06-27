@@ -1,0 +1,8 @@
+Dr. Ajith Weerasinghe's details
+
+	Specialty: Pediatrics
+	Consultation Days: Monday, Tuesday, Thursday
+	Consultation Times: 6:00 PM 
+	Room Number : 5
+
+Do you wanna channel him ? [Yes/No]
